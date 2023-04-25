@@ -1,6 +1,6 @@
 # Security-Project
 
-This project allows you to setup a Krack Attack against a Weaker OS System like Ubuntu , which in our case is the Victim VM . While , also diplaying bad packets and a PMF method which will protect against the code. 
+This project allows you to setup a Crack Attack against a Weaker OS System like Ubuntu , which in our case is the Victim VM . While , also diplaying bad packets and a PMF method which will protect against the code. 
 
 In Order to run this code you have to have two virtual systems , one Kali Linux(Attacker VM and AP) and one Ubuntu ( Victim VM that will run code for PMF and Capture Bad Packets )
 
